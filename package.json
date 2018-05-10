@@ -1,0 +1,20 @@
+{
+  "name": "com.supersuperstar.ble.noblewrapper",
+  "version": "0.0.1",
+  "description": "An wrapper around noble library to provide a unified API using Promises and Observables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodoinblue/NobleDeviceWrapper.git"
+  },
+  "author": "Charles Liu <dodoinblue@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dodoinblue/NobleDeviceWrapper/issues"
+  },
+  "homepage": "https://github.com/dodoinblue/NobleDeviceWrapper#readme"
+}
+
