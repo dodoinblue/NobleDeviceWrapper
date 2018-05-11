@@ -3,6 +3,12 @@
   "version": "0.0.1",
   "description": "An wrapper around noble library to provide a unified API using Promises and Observables.",
   "main": "index.js",
+  "standard.options": {
+    "env": [
+      "node",
+      "mocha"
+    ]
+  },
   "scripts": {
     "test": "test"
   },
@@ -15,6 +21,11 @@
   "bugs": {
     "url": "https://github.com/dodoinblue/NobleDeviceWrapper/issues"
   },
-  "homepage": "https://github.com/dodoinblue/NobleDeviceWrapper#readme"
+  "homepage": "https://github.com/dodoinblue/NobleDeviceWrapper#readme",
+  "dependencies": {
+    "noble": "^1.9.1"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
 }
-

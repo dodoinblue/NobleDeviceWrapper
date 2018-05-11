@@ -1,0 +1,8 @@
+#DS Store
+.DS_Store
+
+# IDE files
+.idea
+
+# Dependency Folder
+node_modules
